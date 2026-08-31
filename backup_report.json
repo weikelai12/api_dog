@@ -2,57 +2,64 @@
     {
         "breed": "spaniel",
         "subbreed": "blenheim",
-        "source_url": "https://images.dog.ceo/breeds/spaniel-blenheim/n02086646_4298.jpg",
-        "disk_path": "/spaniel/spaniel_blenheim_n02086646_4298.jpg",
-        "filename": "spaniel_blenheim_n02086646_4298.jpg",
+        "source_url": "https://images.dog.ceo/breeds/spaniel-blenheim/n02086646_2932.jpg",
+        "disk_path": "/spaniel/spaniel_blenheim_n02086646_2932.jpg",
+        "filename": "spaniel_blenheim_n02086646_2932.jpg",
+        "size_bytes": 37588,
         "status": "success"
     },
     {
         "breed": "spaniel",
         "subbreed": "brittany",
-        "source_url": "https://images.dog.ceo/breeds/spaniel-brittany/n02101388_2889.jpg",
-        "disk_path": "/spaniel/spaniel_brittany_n02101388_2889.jpg",
-        "filename": "spaniel_brittany_n02101388_2889.jpg",
+        "source_url": "https://images.dog.ceo/breeds/spaniel-brittany/n02101388_4808.jpg",
+        "disk_path": "/spaniel/spaniel_brittany_n02101388_4808.jpg",
+        "filename": "spaniel_brittany_n02101388_4808.jpg",
+        "size_bytes": 21432,
         "status": "success"
     },
     {
         "breed": "spaniel",
         "subbreed": "cocker",
-        "source_url": "https://images.dog.ceo/breeds/spaniel-cocker/n02102318_10162.jpg",
-        "disk_path": "/spaniel/spaniel_cocker_n02102318_10162.jpg",
-        "filename": "spaniel_cocker_n02102318_10162.jpg",
+        "source_url": "https://images.dog.ceo/breeds/spaniel-cocker/n02102318_14794.jpg",
+        "disk_path": "/spaniel/spaniel_cocker_n02102318_14794.jpg",
+        "filename": "spaniel_cocker_n02102318_14794.jpg",
+        "size_bytes": 32599,
         "status": "success"
     },
     {
         "breed": "spaniel",
         "subbreed": "irish",
-        "source_url": "https://images.dog.ceo/breeds/spaniel-irish/n02102973_721.jpg",
-        "disk_path": "/spaniel/spaniel_irish_n02102973_721.jpg",
-        "filename": "spaniel_irish_n02102973_721.jpg",
+        "source_url": "https://images.dog.ceo/breeds/spaniel-irish/n02102973_914.jpg",
+        "disk_path": "/spaniel/spaniel_irish_n02102973_914.jpg",
+        "filename": "spaniel_irish_n02102973_914.jpg",
+        "size_bytes": 42321,
         "status": "success"
     },
     {
         "breed": "spaniel",
         "subbreed": "japanese",
-        "source_url": "https://images.dog.ceo/breeds/spaniel-japanese/n02085782_28.jpg",
-        "disk_path": "/spaniel/spaniel_japanese_n02085782_28.jpg",
-        "filename": "spaniel_japanese_n02085782_28.jpg",
+        "source_url": "https://images.dog.ceo/breeds/spaniel-japanese/n02085782_2014.jpg",
+        "disk_path": "/spaniel/spaniel_japanese_n02085782_2014.jpg",
+        "filename": "spaniel_japanese_n02085782_2014.jpg",
+        "size_bytes": 6896,
         "status": "success"
     },
     {
         "breed": "spaniel",
         "subbreed": "sussex",
-        "source_url": "https://images.dog.ceo/breeds/spaniel-sussex/n02102480_3762.jpg",
-        "disk_path": "/spaniel/spaniel_sussex_n02102480_3762.jpg",
-        "filename": "spaniel_sussex_n02102480_3762.jpg",
+        "source_url": "https://images.dog.ceo/breeds/spaniel-sussex/n02102480_6174.jpg",
+        "disk_path": "/spaniel/spaniel_sussex_n02102480_6174.jpg",
+        "filename": "spaniel_sussex_n02102480_6174.jpg",
+        "size_bytes": 39797,
         "status": "success"
     },
     {
         "breed": "spaniel",
         "subbreed": "welsh",
-        "source_url": "https://images.dog.ceo/breeds/spaniel-welsh/n02102177_2945.jpg",
-        "disk_path": "/spaniel/spaniel_welsh_n02102177_2945.jpg",
-        "filename": "spaniel_welsh_n02102177_2945.jpg",
+        "source_url": "https://images.dog.ceo/breeds/spaniel-welsh/n02102177_67.jpg",
+        "disk_path": "/spaniel/spaniel_welsh_n02102177_67.jpg",
+        "filename": "spaniel_welsh_n02102177_67.jpg",
+        "size_bytes": 35364,
         "status": "success"
     }
 ]
