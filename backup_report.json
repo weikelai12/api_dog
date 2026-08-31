@@ -1,0 +1,58 @@
+[
+    {
+        "breed": "spaniel",
+        "subbreed": "blenheim",
+        "source_url": "https://images.dog.ceo/breeds/spaniel-blenheim/n02086646_4298.jpg",
+        "disk_path": "/spaniel/spaniel_blenheim_n02086646_4298.jpg",
+        "filename": "spaniel_blenheim_n02086646_4298.jpg",
+        "status": "success"
+    },
+    {
+        "breed": "spaniel",
+        "subbreed": "brittany",
+        "source_url": "https://images.dog.ceo/breeds/spaniel-brittany/n02101388_2889.jpg",
+        "disk_path": "/spaniel/spaniel_brittany_n02101388_2889.jpg",
+        "filename": "spaniel_brittany_n02101388_2889.jpg",
+        "status": "success"
+    },
+    {
+        "breed": "spaniel",
+        "subbreed": "cocker",
+        "source_url": "https://images.dog.ceo/breeds/spaniel-cocker/n02102318_10162.jpg",
+        "disk_path": "/spaniel/spaniel_cocker_n02102318_10162.jpg",
+        "filename": "spaniel_cocker_n02102318_10162.jpg",
+        "status": "success"
+    },
+    {
+        "breed": "spaniel",
+        "subbreed": "irish",
+        "source_url": "https://images.dog.ceo/breeds/spaniel-irish/n02102973_721.jpg",
+        "disk_path": "/spaniel/spaniel_irish_n02102973_721.jpg",
+        "filename": "spaniel_irish_n02102973_721.jpg",
+        "status": "success"
+    },
+    {
+        "breed": "spaniel",
+        "subbreed": "japanese",
+        "source_url": "https://images.dog.ceo/breeds/spaniel-japanese/n02085782_28.jpg",
+        "disk_path": "/spaniel/spaniel_japanese_n02085782_28.jpg",
+        "filename": "spaniel_japanese_n02085782_28.jpg",
+        "status": "success"
+    },
+    {
+        "breed": "spaniel",
+        "subbreed": "sussex",
+        "source_url": "https://images.dog.ceo/breeds/spaniel-sussex/n02102480_3762.jpg",
+        "disk_path": "/spaniel/spaniel_sussex_n02102480_3762.jpg",
+        "filename": "spaniel_sussex_n02102480_3762.jpg",
+        "status": "success"
+    },
+    {
+        "breed": "spaniel",
+        "subbreed": "welsh",
+        "source_url": "https://images.dog.ceo/breeds/spaniel-welsh/n02102177_2945.jpg",
+        "disk_path": "/spaniel/spaniel_welsh_n02102177_2945.jpg",
+        "filename": "spaniel_welsh_n02102177_2945.jpg",
+        "status": "success"
+    }
+]
