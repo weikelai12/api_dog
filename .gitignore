@@ -3,3 +3,7 @@ __pycache__/
 *.pyo
 .env
 .vscode/
+backup_report.json
+*.log
+.idea/
+
